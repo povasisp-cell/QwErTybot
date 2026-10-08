@@ -1,0 +1,10 @@
+{
+  "name": "qwertybot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.60.1"
+  }
+}
